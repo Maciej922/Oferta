@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-21 12:05:38</sys_created_on>
+        <sys_id>7bc31e554723c210b7ea3833e16d430c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1422964_oferta_task_ofertowy.x_1422964_oferta.task_ofertowy_user</sys_name>
+        <sys_package display_value="Oferta" source="x_1422964_oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_scope>
+        <sys_security_acl display_value="x_1422964_oferta_task_ofertowy">f7c31e554723c210b7ea3833e16d4309</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7bc31e554723c210b7ea3833e16d430c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-21 12:05:38</sys_updated_on>
+        <sys_user_role display_value="x_1422964_oferta.task_ofertowy_user" name="x_1422964_oferta.task_ofertowy_user">6bc352d14723c210b7ea3833e16d4340</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

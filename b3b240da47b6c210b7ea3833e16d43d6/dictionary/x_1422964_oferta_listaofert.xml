@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2bb024aa47720210b7ea3833e16d437b" label="ListaOfert" max_length="40" name="x_1422964_oferta_listaofert" type="collection">
+        <element label="DataOferty" max_length="40" name="dataoferty" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="NrKlienta" max_length="40" name="nrklienta" type="string"/>
+        <element label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>

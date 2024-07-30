@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1422964_oferta.task_ofertowy_user" name="x_1422964_oferta.task_ofertowy_user">6bc352d14723c210b7ea3833e16d4340</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-21 12:05:37</sys_created_on>
+        <sys_id>e3c352d14723c210b7ea3833e16d4343</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6bc352d14723c210b7ea3833e16d4340</sys_name>
+        <sys_package display_value="Oferta" source="x_1422964_oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e3c352d14723c210b7ea3833e16d4343</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-21 12:05:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

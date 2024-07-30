@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3033d06a47320210b7ea3833e16d4341" label="Handlowcy" max_length="40" name="x_1422964_oferta_handlowcy" type="collection">
+        <element label="NrKam" max_length="40" name="nrkam" type="integer"/>
+        <element label="NazwiskoKam" max_length="40" name="nazwiskokam" type="string"/>
+        <element label="ImieKam" max_length="40" name="imiekam" type="string"/>
+        <element label="PrzelozonyMail" max_length="40" name="przelozonymail" type="string"/>
+        <element label="Przelozony" max_length="40" name="przelozony" type="string"/>
+    </element>
+</database>

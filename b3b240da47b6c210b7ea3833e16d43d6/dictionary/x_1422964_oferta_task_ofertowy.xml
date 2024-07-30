@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="24135e154723c210b7ea3833e16d434e" extends="task" label="Task Ofertowy" max_length="40" name="x_1422964_oferta_task_ofertowy" type="collection">
+        <element label="Temat" max_length="40" name="temat" type="string"/>
+        <element label="Email Nadawcy" max_length="30" name="email_nadawcy" type="string"/>
+        <element label="DataMail" max_length="40" name="datamail" type="glide_date"/>
+    </element>
+</database>

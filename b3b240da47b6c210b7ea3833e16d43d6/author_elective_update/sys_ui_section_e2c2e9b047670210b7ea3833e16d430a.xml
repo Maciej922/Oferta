@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="e2c2e9b047670210b7ea3833e16d430a" sys_domain="global" table="x_1422964_oferta_oferta_wewnetrzna" version="3" view="">
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1422964_oferta_oferta_wewnetrzna</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-19 19:14:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2c2e9b047670210b7ea3833e16d430a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1422964_oferta_oferta_wewnetrzna</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Oferta" source="x_1422964_oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_scope>
+            <sys_update_name>sys_ui_section_e2c2e9b047670210b7ea3833e16d430a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-19 19:14:30</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Oferta">b3b240da47b6c210b7ea3833e16d43d6</application>
+        <file_path/>
+        <instance_id>ca250b83dbaaf114caf99027c5961904</instance_id>
+        <instance_name>dev219763</instance_name>
+        <name>sys_ui_section_e2c2e9b047670210b7ea3833e16d430a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="e2c2e9b047670210b7ea3833e16d430a" sys_domain="global" table="x_1422964_oferta_oferta_wewnetrzna" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1422964_oferta_oferta_wewnetrzna</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-19 19:14:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e2c2e9b047670210b7ea3833e16d430a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1422964_oferta_oferta_wewnetrzna</sys_name><sys_overrides/><sys_package display_value="Oferta" source="x_1422964_oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_package><sys_policy/><sys_scope display_value="Oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_scope><sys_update_name>sys_ui_section_e2c2e9b047670210b7ea3833e16d430a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-19 19:14:30</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>722497872</payload_hash>
+        <record_name>Oferta wewnetrzna</record_name>
+        <reverted_from/>
+        <source>f7b240da47b6c210b7ea3833e16d43da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-19 19:14:30</sys_created_on>
+        <sys_id>2ec2e9b047670210b7ea3833e16d430e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190cc6acef80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-19 19:14:30</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>eac2e9b088670210ca3c33d6c0811f0e</update_guid>
+        <update_guid_history>eac2e9b088670210ca3c33d6c0811f0e:722497872</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-19 19:23:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>00b4fabdc64a4d4580f5b520c65f3dd1</sys_id>
+        <sys_metadata>e2c2e9b047670210b7ea3833e16d430a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1422964_oferta_oferta_wewnetrzna</sys_name>
+        <sys_package display_value="Oferta" source="x_1422964_oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_package>
+        <sys_parent display_value="">13700df447a30210b7ea3833e16d434f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_scope>
+        <sys_scope_delete display_value="">c6c5408b08654fd59372e5ed30b41ec9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_e2c2e9b047670210b7ea3833e16d430a</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_e2c2e9b047670210b7ea3833e16d430a">2ec2e9b047670210b7ea3833e16d430e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-19 19:23:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

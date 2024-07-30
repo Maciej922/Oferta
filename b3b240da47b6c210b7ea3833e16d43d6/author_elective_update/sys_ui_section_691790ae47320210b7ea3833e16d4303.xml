@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="691790ae47320210b7ea3833e16d4303" sys_domain="global" table="x_1422964_oferta_stanyceny" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-17 17:26:01</sys_created_on>
+            <sys_id>ed1790ae47320210b7ea3833e16d4306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-17 17:26:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nazwatowaru</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-17 17:27:00</sys_created_on>
+            <sys_id>c057d4ae47320210b7ea3833e16d43e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-17 17:27:00</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ilosc</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-17 17:28:25</sys_created_on>
+            <sys_id>6ca79cae47320210b7ea3833e16d430f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-17 17:28:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>jednostka</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-17 17:28:41</sys_created_on>
+            <sys_id>10b7dcae47320210b7ea3833e16d431d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-17 17:28:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cena</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-17 17:29:03</sys_created_on>
+            <sys_id>f1c750ee47320210b7ea3833e16d43b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-17 17:29:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>datadostawy</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-17 17:29:43</sys_created_on>
+            <sys_id>b7e714ee47320210b7ea3833e16d43ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-17 17:29:43</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>komentarz</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-17 17:30:02</sys_created_on>
+            <sys_id>900894ee47320210b7ea3833e16d4313</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-17 17:30:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>marza</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-17 17:32:09</sys_created_on>
+            <sys_id>d778dcee47320210b7ea3833e16d439f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-17 17:32:09</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1422964_oferta_stanyceny</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-06-17 17:26:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>691790ae47320210b7ea3833e16d4303</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1422964_oferta_stanyceny</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Oferta" source="x_1422964_oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_scope>
+            <sys_update_name>sys_ui_section_691790ae47320210b7ea3833e16d4303</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-06-17 17:26:01</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Oferta">b3b240da47b6c210b7ea3833e16d43d6</application>
+        <file_path/>
+        <instance_id>ca250b83dbaaf114caf99027c5961904</instance_id>
+        <instance_name>dev219763</instance_name>
+        <name>sys_ui_section_691790ae47320210b7ea3833e16d4303</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="691790ae47320210b7ea3833e16d4303" sys_domain="global" table="x_1422964_oferta_stanyceny" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-17 17:26:01</sys_created_on><sys_id>ed1790ae47320210b7ea3833e16d4306</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-17 17:26:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>nazwatowaru</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-17 17:27:00</sys_created_on><sys_id>c057d4ae47320210b7ea3833e16d43e8</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-17 17:27:00</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>ilosc</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-17 17:28:25</sys_created_on><sys_id>6ca79cae47320210b7ea3833e16d430f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-17 17:28:25</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>jednostka</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-17 17:28:41</sys_created_on><sys_id>10b7dcae47320210b7ea3833e16d431d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-17 17:28:41</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>cena</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-17 17:29:03</sys_created_on><sys_id>f1c750ee47320210b7ea3833e16d43b7</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-17 17:29:03</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>datadostawy</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-17 17:29:43</sys_created_on><sys_id>b7e714ee47320210b7ea3833e16d43ea</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-17 17:29:43</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>komentarz</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-17 17:30:02</sys_created_on><sys_id>900894ee47320210b7ea3833e16d4313</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-17 17:30:02</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>marza</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-17 17:32:09</sys_created_on><sys_id>d778dcee47320210b7ea3833e16d439f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1422964_oferta_stanyceny" sys_domain="global" view="Default view">691790ae47320210b7ea3833e16d4303</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-17 17:32:09</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1422964_oferta_stanyceny</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-17 17:26:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>691790ae47320210b7ea3833e16d4303</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1422964_oferta_stanyceny</sys_name><sys_overrides/><sys_package display_value="Oferta" source="x_1422964_oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_package><sys_policy/><sys_scope display_value="Oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_scope><sys_update_name>sys_ui_section_691790ae47320210b7ea3833e16d4303</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-17 17:26:01</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-170188916</payload_hash>
+        <record_name>StanyCeny</record_name>
+        <reverted_from/>
+        <source>f7b240da47b6c210b7ea3833e16d43da</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-17 17:32:09</sys_created_on>
+        <sys_id>9f78dcee47320210b7ea3833e16d43a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19027419bb50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-17 17:32:09</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>1778dcee843202106b6ad1c4ba6710a1</update_guid>
+        <update_guid_history>1778dcee843202106b6ad1c4ba6710a1:-170188916,1408d4eee6320210a153b431b6db1f58:-1145816165,73e714ee7c3202108e2faaeb7d9147ec:-1125995633,7dc750ee913202107895eba41e6406b8:-1527738398,58b7dcae03320210c44a9454bcfdf21e:-1915417126,64a79caeff3202102af99d65c8e4dd11:-244105843,8857d4ae3b320210b4fbbafbfc7df9e9:-1148073194,651790aef0320210dc1f0f43fa8feb08:-366538165,e51790aed532021073f0a70067f1b206:309340043</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-21 12:42:25</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>2b3f725c99e9471698d9c480ab687811</sys_id>
+        <sys_metadata>691790ae47320210b7ea3833e16d4303</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1422964_oferta_stanyceny</sys_name>
+        <sys_package display_value="Oferta" source="x_1422964_oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_package>
+        <sys_parent display_value="">4d1750ae47320210b7ea3833e16d4307</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_scope>
+        <sys_scope_delete display_value="">c6c5408b08654fd59372e5ed30b41ec9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_691790ae47320210b7ea3833e16d4303</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_691790ae47320210b7ea3833e16d4303">9f78dcee47320210b7ea3833e16d43a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-21 12:42:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

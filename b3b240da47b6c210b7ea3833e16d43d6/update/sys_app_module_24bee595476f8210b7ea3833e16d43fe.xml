@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Tabela robocza">e0bee595476f8210b7ea3833e16d43fa</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Tabela roboczas</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1422964_oferta_tabela_robocza</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_1422964_oferta.tabela_robocza_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-21 09:23:29</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>24bee595476f8210b7ea3833e16d43fe</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Oferta roboczas</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Oferta" source="x_1422964_oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Oferta">b3b240da47b6c210b7ea3833e16d43d6</sys_scope>
+        <sys_update_name>sys_app_module_24bee595476f8210b7ea3833e16d43fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-21 12:58:48</sys_updated_on>
+        <timeline_page/>
+        <title>Oferta roboczas</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
